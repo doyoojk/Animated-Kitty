@@ -4,7 +4,7 @@
   <img src="https://github.com/doyoojk/Animated-Kitty/blob/main/animated%20kitty%20demo.gif">
 </div>
 
-### Overview
+## Overview
 This project aims to use the fundamentals of assembling complex objects from simple parts using the matrix stack. I chose to animate a 3D cat using simple geometric shapes in Processing. The cat animation includes various parts such as the body, head, legs, arms, tail, and additional features like ears, eyes, whiskers, and a collar. Additionally, fish are instantiated as part of the animation to complement the scene.
 
 ### Features
